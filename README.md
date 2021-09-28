@@ -2,6 +2,7 @@
 
 [![contains technical debt](https://forthebadge.com/images/badges/contains-technical-debt.svg)](#)[![made with crayons](https://forthebadge.com/images/badges/made-with-crayons.svg)](#)[![made in byond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](#)
 
+Welcome to the Tselabok Project Version of all that. Everything is going to be committed and managed from here, so make sure you fork a version if you want to stay up to date!
 # SETUP
 
 [<img src=".github/assets/setup.png" alt="Setup" width="150" align="left">](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Fdev)
